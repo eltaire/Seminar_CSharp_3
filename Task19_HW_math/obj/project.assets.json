@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW/Task19_HW.csproj",
-      "projectName": "Task19_HW",
-      "projectPath": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW/Task19_HW.csproj",
+      "projectUniqueName": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/Task19_HW_math.csproj",
+      "projectName": "Task19_HW_math",
+      "projectPath": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/Task19_HW_math.csproj",
       "packagesPath": "/Users/user_1/.nuget/packages/",
-      "outputPath": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW/obj/",
+      "outputPath": "/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user_1/.nuget/NuGet/NuGet.Config"

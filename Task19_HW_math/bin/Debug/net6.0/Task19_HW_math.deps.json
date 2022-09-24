@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Task19_HW/1.0.0": {
+      "Task19_HW_math/1.0.0": {
         "runtime": {
-          "Task19_HW.dll": {}
+          "Task19_HW_math.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Task19_HW/1.0.0": {
+    "Task19_HW_math/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

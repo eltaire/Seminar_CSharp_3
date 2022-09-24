@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/bin/Debug/net6.0/Task19_HW_math
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/bin/Debug/net6.0/Task19_HW_math.deps.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/bin/Debug/net6.0/Task19_HW_math.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/bin/Debug/net6.0/Task19_HW_math.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/bin/Debug/net6.0/Task19_HW_math.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/refint/Task19_HW_math.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/Task19_HW_math.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task19_HW_math/obj/Debug/net6.0/ref/Task19_HW_math.dll
