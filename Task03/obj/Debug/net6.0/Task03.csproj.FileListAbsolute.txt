@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/bin/Debug/net6.0/Task03
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/bin/Debug/net6.0/Task03.deps.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/bin/Debug/net6.0/Task03.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/bin/Debug/net6.0/Task03.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/bin/Debug/net6.0/Task03.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/refint/Task03.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/Task03.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task03/obj/Debug/net6.0/ref/Task03.dll

@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/bin/Debug/net6.0/Task23_HW
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/bin/Debug/net6.0/Task23_HW.deps.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/bin/Debug/net6.0/Task23_HW.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/bin/Debug/net6.0/Task23_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/bin/Debug/net6.0/Task23_HW.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/refint/Task23_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/Task23_HW.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task23_HW/obj/Debug/net6.0/ref/Task23_HW.dll
