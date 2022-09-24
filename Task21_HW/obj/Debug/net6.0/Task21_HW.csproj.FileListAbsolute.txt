@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/bin/Debug/net6.0/Task21_HW
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/bin/Debug/net6.0/Task21_HW.deps.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/bin/Debug/net6.0/Task21_HW.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/bin/Debug/net6.0/Task21_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/bin/Debug/net6.0/Task21_HW.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/refint/Task21_HW.dll
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.pdb
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/Task21_HW.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSarp_03/Task21_HW/obj/Debug/net6.0/ref/Task21_HW.dll
